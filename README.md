@@ -1,6 +1,6 @@
 # 🌍 Website Summarizer  
 
-![Website Summarizer](image.png)  <!-- Replace with your actual image filename -->
+![Website Summarizer](screenshot.png)  
 
 ## 📌 About  
 Website Summarizer is a **Streamlit-based web app** that extracts and summarizes webpage content using **OpenAI GPT-4o-mini** and **BeautifulSoup**.  
@@ -46,8 +46,7 @@ streamlit run app.py
 
 ---
 
-## 🖼️ Screenshot  
-(screenshot.png)  
+
 
 
 
