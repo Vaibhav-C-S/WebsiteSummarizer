@@ -17,7 +17,7 @@ Website Summarizer is a **Streamlit-based web app** that extracts and summarizes
 
 ### **1️⃣ Clone the Repository**  
 ```sh
-git clone [https://github.com/yourusername/website-summarizer.git ](https://github.com/Vaibhav-C-S/WebsiteSummarizer.git) 
+git clone https://github.com/Vaibhav-C-S/WebsiteSummarizer.git 
 cd website-summarizer
 ```
 
